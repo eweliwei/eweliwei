@@ -1,7 +1,8 @@
 # ✨ About Me:
-📊 I'm a Final Year Data Analytics Student<br>🔭 I’m currently working on my assignments and FYP<br>
-FYP Project Link:<br>
-https://fyp-sme-sentiment-analysis-tool-eweliwei.streamlit.app/<br>🌱 I’m currently learning: Bootstrap, Flutter 
+📊 I'm a Final Year Data Analytics Student at Asia Pacific University<br><br>
+🔭 FYP Project Link:<br>
+https://fyp-sme-sentiment-analysis-tool-eweliwei.streamlit.app/<br><br>
+🌱 I’m currently upskilling myself in: Bootstrap, Flutter 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eweliwei) 
 
