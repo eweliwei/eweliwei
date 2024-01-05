@@ -1,8 +1,8 @@
 # ✨ About Me:
-📊 I'm a Final Year Data Analytics Student at Asia Pacific University<br><br>
+📊 Data Analytics Fresh Graduate at Asia Pacific University<br><br>
 🔭 FYP Project Link:<br>
 https://fyp-sme-sentiment-analysis-tool-eweliwei.streamlit.app/<br><br>
-🌱 I’m currently upskilling myself in: Bootstrap, Flutter 
+🌱 I’m currently upskilling myself in: Airflow and AWS 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eweliwei) 
 
