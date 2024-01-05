@@ -1,5 +1,5 @@
 # ✨ About Me:
-📊 Data Analytics Fresh Graduate at Asia Pacific University<br><br>
+📊 Data Analytics Fresh Graduate From Asia Pacific University<br><br>
 🔭 FYP Project Link:<br>
 https://fyp-sme-sentiment-analysis-tool-eweliwei.streamlit.app/<br><br>
 🌱 I’m currently upskilling myself in: Airflow and AWS 
